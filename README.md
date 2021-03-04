@@ -1,3 +1,3 @@
 # PONG
 
-Pong game written in VHDL and implemented on a NEXYS4 board. 
+Pong game written in VHDL and implemented on a NEXYS 4 FPGA board. 
